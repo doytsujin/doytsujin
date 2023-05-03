@@ -1,5 +1,5 @@
 
-### Kubernetes and Cloud Native Associate | Software Reliable By Design | Reactive | Distributed | Real-Time | ML AI NoOps
+### Kubernetes and Cloud Native Associate | Software Reliable By Design | Reactive | Distributed | Real-Time | Everything-as-Code ML AI NoOps
 
 #### He/Him
 
