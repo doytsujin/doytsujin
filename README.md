@@ -1,5 +1,5 @@
 
-### Azure Data Engineer Associate | Terraform Associate | Kubernetes and Cloud Native Associate | AWS | GCP | ML | Software Reliable By Design Everything-as-Code NoOps
+### Link and Think | Certified Azure Data Engineer Associate | Argo Associate | Terraform Associate | KCNA | AWS | GCP | ML | Software Reliable By Design Everything-as-Code NoOps
 
 #### He/Him
 
