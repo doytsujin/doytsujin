@@ -1,5 +1,5 @@
 
-### Link and Think | Certified Azure Data Engineer Associate | Argo Associate | Terraform Associate | KCNA | AWS | GCP | AIML | Software Reliable By Design Everything-as-Code NoOps
+### Link and Think | Associate Principal Data Engineer | Certified Data Engineer Argo Terraform KCNA | Hybrid-Multi-Cloud | AIML Data Analytics | Software Reliable By Design Everything-as-Code NoOps
 
 #### He/Him
 
