@@ -1,5 +1,5 @@
 
-### Link and Think | Associate Principal Data Engineer | Certified Data Engineer Argo Terraform KCNA | Hybrid-Multi-Cloud | AIML Data Analytics | Software Reliable By Design Everything-as-Code NoOps
+### Link and Think | Associate Principal Data Engineer | Certified Data Engineer Terraform Argo | Hybrid-Multi-Cloud-Native | AI/ML/DL Data Analytics | Software Reliable By Design Everything-as-Code NoOps
 
 #### He/Him
 
