@@ -1,5 +1,5 @@
 
-### Link and Think | Associate Principal Data Engineer | Cloud-Native & Hybrid Architectures | AI/ML/DL | Data Analytics | Reliability by Design | Everything-as-Code | NoOps
+### Link-Think-Act | Associate Principal Data Engineer | Cloud-Native & Hybrid Architectures | AI/ML/DL | Data Analytics | Reliability by Design | Everything-as-Code | NoOps
 
 #### He/Him
 
