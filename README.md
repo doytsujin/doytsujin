@@ -5,7 +5,7 @@
 
 #### About
 
-I operate at the intersection of agentic systems, large-scale data platforms, and real-time infrastructure, leading research and architecture for systems where data, equipment, and applications become active, self-governing entities.
+As a Subject Matter Expert, I operate at the intersection of agentic systems, large-scale data platforms, and real-time infrastructure, leading research and architecture for systems where data, equipment, and applications become active, self-governing entities.
 
 My work focuses on defining and evolving agent-native system architectures that span cloud, on-prem, and hybrid environments. I design platforms where datasets, filesystems, equipment catalogs, and services own their workflows, lifecycle, and operational intent, enabling near real-time adaptation, autonomous coordination, and policy-driven execution.
 
