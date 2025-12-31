@@ -11,7 +11,7 @@ My work focuses on defining and evolving agent-native system architectures that 
 
 I stay hands-on with the systems I design. I prototype, wire up, stress-test, and iterate on real platforms - often moving from whiteboard to running code, from UI interaction to control plane logic, from local experiments to production-grade infrastructure.
 
-I work across frontend, backend, and infrastructure layers, not as isolated components but as a single system that must behave predictably under load, failure, and change. My focus is on making complex systems understandable, operable, and pleasant to evolve—for both humans and machines.
+I work across frontend, backend, and infrastructure layers, not as isolated components but as a single system that must behave predictably under load, failure, and change. My focus is on making complex systems understandable, operable, and pleasant to evolve - for both humans and machines.
 
 I build systems around reliability, security, and isolation by design, using declarative resource models, infrastructure-as-code, and custom controllers to map desired state into observable, governable reality. I actively integrate practices from AIOps, MLOps, DevSecOps, and Site Reliability Engineering, ensuring that intelligent systems remain explainable, operable, and safe at scale.
 
