@@ -17,6 +17,6 @@ I build systems around reliability, security, and isolation by design, using dec
 
 A core strength of my work is designing near real-time telemetry, metrics, and event pipelines that operate across heterogeneous environments and process data at multi-terabyte scale. These pipelines are not treated as observability add-ons, but as first-class architectural primitives that enable feedback, learning, and adaptation.
 
-My experience spans high-reliability and regulated domains, including finance, pharmaceutical manufacturing, and industrial automation. This includes architecting reactive financial systems, contributing to GMP-aligned MES platforms, and designing control and automation systems for semiconductor manufacturing and robotics, with deep experience in SECS/HSMS-based integrations.
+My experience spans high-reliability and regulated domains, including finance, pharmaceutical manufacturing, and industrial automation. This includes architecting reactive financial systems, contributing to GxP-aligned MES platforms, and designing control and automation systems for semiconductor manufacturing and robotics, with deep experience in SECS/HSMS-based integrations.
 
 [LinkedIn](https://www.linkedin.com/in/thedoytsujin/)
