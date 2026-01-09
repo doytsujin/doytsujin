@@ -1,5 +1,5 @@
 
-### 🤖 Link-Think-Act · Associate Principal Data Engineer @ AstraZeneca · Agentic Datasets & Intelligent MES · AgentOps · Cloud-Native / Hybrid Architectures · M.Sc. Physics - Engineering
+### 🤖 Link-Think-Act · Associate Principal Data Engineer @ AstraZeneca · Agentic Datasets & Intelligent MES · AgentOps · Cloud-Native / Hybrid Architectures · M.Sc. Physics - Information and Communications Engineering
 
 #### He/Him
 
