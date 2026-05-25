@@ -13,6 +13,6 @@ That practice comes from architecting and operating distributed systems in high-
 
 _Research interests_ · semantic memory security · agentic control planes · approximate-retrieval governance · lifecycle FSMs and pre-execution refusal · multi-agent observability and audit substrates
 
-_Selected work_ · Semantic Equivalence as a Control-Plane Primitive: Improving Reliability of Distributed Agentic Communication Systems, IEEE GLOBECOM 2026 (under review); Agentic Data Services: A Control-Plane Architecture for Adaptive Data Workflows, IEEE BigDataService 2026 (under review); Agentic Control Planes for Hybrid Quantum–Classical Systems: A Kubernetes-Native Approach, IEEE QCE 2026 (under review); Policy-Aware Supervisory Control for Observable Embodied Biomedical Robotic Systems, IEEE CBS 2026 (under review); plus accepted contributions on agentic-dataset lifecycle FSMs and decentralised pre-execution refusal at CCECE 2026 and ANNSIM 2026.
+_Selected work_ · accepted contributions on agentic-dataset lifecycle FSMs and decentralised pre-execution refusal at EMBC 2026, CCECE 2026 and ANNSIM 2026.
 
 [LinkedIn](https://www.linkedin.com/in/thedoytsujin/)
