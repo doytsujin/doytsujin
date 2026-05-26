@@ -13,6 +13,6 @@ That practice comes from architecting and operating distributed systems in high-
 
 _Research interests_ · semantic memory security · agentic control planes · approximate-retrieval governance · lifecycle FSMs and pre-execution refusal · multi-agent observability and audit substrates
 
-_Selected work_ · accepted contributions on agentic-dataset lifecycle FSMs and decentralised pre-execution refusal at EMBC 2026, CCECE 2026 and ANNSIM 2026.
+_Selected work_ · accepted contributions on agentic-dataset lifecycle FSMs and decentralised pre-execution refusal at IEEE Big DataService 2026, IEEE EMBC 2026, IEEE CCECE 2026 and ANNSIM 2026.
 
 [LinkedIn](https://www.linkedin.com/in/thedoytsujin/)
