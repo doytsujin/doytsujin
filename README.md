@@ -1,18 +1,27 @@
 
-### 🤖 Link-Think-Act · Associate Principal Data Engineer · IEEE Member · IEICE Member · Agentic Datasets · Agentic BioPharma Pipelines · Cloud-Native / Hybrid Architectures · M.Sc. Physics · M.Sc. Information and Communications Engineering
+### 🤖 Link-Think-Act · Associate Principal Data Engineer · Agentic AI & Scientific Data Systems · AI & Data Infrastructure · IEEE Member · Research & Technical Speaker
 
 #### He/Him
 
 #### About
 
-My research investigates semantic memory as a security-critical infrastructure component for autonomous and multi-agent AI systems. The central thesis is dual: semantic caching introduces a new class of attack surfaces — cache poisoning, prompt-injection amplification, cross-tenant leakage, similarity-boundary manipulation — and, when designed with security intent, simultaneously becomes a more capable defensive layer than any control operating outside the agent–LLM path. The same equivalence-driven control-plane pattern transfers across non-LLM domains, including semantic circuit caching for hybrid quantum–classical workloads and vision-grounded agentic perception in closed-loop simulation environments.
+I design and deliver intelligent data and AI infrastructure, bridging principal-level engineering practice with peer-reviewed research and external technical leadership.
 
-This research is grounded in a long engineering practice at the intersection of agentic systems, large-scale data platforms, and real-time infrastructure: declarative system state, policy, and intent expressed as code through custom resource models and control planes; near-real-time telemetry pipelines processing multi-terabyte volumes across heterogeneous environments; and AIOps, MLOps, DevSecOps, and Site Reliability Engineering practices applied so the resulting systems stay observable, explainable, and operable at scale.
+My work focuses on building reliable, governable, and observable systems for scientific and regulated environments—spanning agentic AI, data platforms, control planes, and emerging computational paradigms.
 
-That practice comes from architecting and operating distributed systems in high-reliability and regulated domains: reactive and fault-tolerant platforms in banking and finance, GxP-aligned Manufacturing Execution Systems for pharmaceutical and biotech environments, and industrial automation and robotics for semiconductor manufacturing, including FOUP transport and SECS/HSMS integrations.
+I am active across IEEE publications, conference presentations, technical writing, and open-source prototypes, translating research ideas into practical engineering approaches.
 
-_Research interests_ · semantic memory security · agentic control planes · approximate-retrieval governance · lifecycle FSMs and pre-execution refusal · multi-agent observability and audit substrates
+What I work on:
 
-_Selected work_ · accepted contributions on agentic-dataset lifecycle FSMs and decentralised pre-execution refusal at IEEE Big DataService 2026, IEEE EMBC 2026, IEEE CCECE 2026 and ANNSIM 2026.
+- Agentic AI infrastructure: semantic caching, control planes, lifecycle finite-state machines, and governed autonomy
+- Security-critical patterns for autonomous and multi-agent systems
+- Strategy and architecture for intelligent data services and Manufacturing Execution Systems
+- Near-real-time telemetry, audit, provenance, and decision-record substrates across multi-terabyte environments
+- Declarative policy, state, and intent expressed as code through custom resource models, GitOps, and control-plane patterns
+- Technical mentorship and cross-functional influence across engineering, MLOps, SRE, and adjacent disciplines
+
+I bring AIOps, MLOps, DevSecOps, and Site Reliability Engineering practices to systems that must remain reliable, explainable, and operable in regulated contexts.
+
+My background spans distributed systems in high-reliability domains: reactive platforms in banking and finance, GxP-aligned pharmaceutical manufacturing systems, and industrial automation for semiconductor manufacturing.
 
 [LinkedIn](https://www.linkedin.com/in/thedoytsujin/)
