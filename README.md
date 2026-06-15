@@ -1,5 +1,5 @@
 
-### 🤖 Link-Think-Act · Associate Principal Data Engineer · Agentic AI & Scientific Data Systems · AI & Data Infrastructure · IEEE Member · Research & Technical Speaker
+### 🤖 Link-Think-Act · Associate Principal Data Engineer · Agentic Datasets · Agentic AI & Scientific Data Systems · AI & Data Infrastructure · IEEE Member · Research & Technical Speaker
 
 #### He/Him
 
