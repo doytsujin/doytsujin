@@ -24,4 +24,4 @@ I bring AIOps, MLOps, DevSecOps, and Site Reliability Engineering practices to s
 
 My background spans distributed systems in high-reliability domains: reactive platforms in banking and finance, GxP-aligned pharmaceutical manufacturing systems, and industrial automation for semiconductor manufacturing.
 
-[LinkedIn](https://www.linkedin.com/in/thedoytsujin/)
+[LinkedIn](https://www.linkedin.com/in/thedoytsujin/) [Personal Page](https://chernov.ca/)
