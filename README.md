@@ -26,3 +26,4 @@ My background spans distributed systems in high-reliability domains: reactive pl
 
 - [LinkedIn](https://www.linkedin.com/in/thedoytsujin/)
 - [Personal Page](https://chernov.ca/)
+- [Portfolio](https://portfolio.chernov.ca/)
