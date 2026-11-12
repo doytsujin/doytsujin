@@ -4,6 +4,7 @@
 #### He/Him
 
 #### About
+
 I am an engineer first. In every domain, I start by understanding the problem, take ownership of it, and build the right engineering solution. Across scientific computing, AI, finance, pharmaceutical manufacturing and industrial automation, I focus on how systems work and on delivering tangible results.  I design and deliver intelligent data and AI infrastructure, combining principal-level engineering with applied research and technical leadership. My work spans the full lifecycle: problem formulation, architecture, experimentation, implementation, deployment and production operations. I am most interested in complex challenges where existing approaches fall short and new architectures, algorithms or computational methods can make a meaningful difference.  What I work on: 
 
 - Full-stack software design and implementation. 
