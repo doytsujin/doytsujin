@@ -1,5 +1,5 @@
 
-### 🤖 Link-Think-Act · Principal Engineer · Agentic Datasets · Semantic Gateways · Agentic AI & Scientific Data Systems · AI & Data Infrastructure · IEEE Member · Research & Technical Speaker
+### 🤖 Link-Think-Act · Principal Engineer · AI & Data Infrastructure · Agentic Datasets · Semantic Gateways · Agentic AI & Scientific Data Systems · IEEE Member · Research & Technical Speaker
 
 #### He/Him
 
