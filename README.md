@@ -22,4 +22,7 @@ I apply AIOps, MLOps, DevSecOps and SRE practices to systems that must stay reli
 - [Personal Page](https://chernov.ca/)
 - [Portfolio](https://portfolio.chernov.ca/)
 - [AgentScope.ca](https://agentscope.ca/)
+- [Agentic Datasets](https://agenticdatasets.org/)
+- [Brain API](https://brainapi.org/)
 - [awaw.ai](https://awaw.ai/)
+
